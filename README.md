@@ -50,3 +50,22 @@ This [lab](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IB
 The solid waste management company has provied you the sample data they wish to collect.
 
 ![Table](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0260EN-SkillsNetwork/labs/Final%20Assignment/images/solid-waste-trips-new.png)
+
+You will start your project by designing a Star Schema warehouse by identifying the columns for the various dimension and fact tables in the schema.
+
+Task 1 - Design the dimension table MyDimDate
+Write down the fields in the MyDimDate table in any text editor one field per line. The company is looking at a granularity of day. Which means they would like to have the ability to generate the report on yearly, monthly, daily, and weekday basis.
+
+Here is a partial list of fields to serve as an example:
+
+dateid
+month
+monthname
+...
+...
+
+Take a screenshot of the fieldnames for the table MyDimDate.
+
+Name the screenshot 1-MyDimDate.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![1-MyDimDate](https://i.imgur.com/OepyNuz.jpg)
