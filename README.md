@@ -33,8 +33,8 @@ The dataset you would be using in this assignment is not a real life dataset. It
 
 You need use PostgreSQL Database to proceed with this assignment.
 
-This ![lab](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0260EN-SkillsNetwork/labs/AnalyzingDataWithCognos/HandsOn_DB2CognosAnalytics.md.html?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDB0260ENSkillsNetwork27338483-2021-01-01) will guide you to understand how to Create Tables and Load Data in PostgreSQL using pgAdmin
+This [lab](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0260EN-SkillsNetwork/labs/AnalyzingDataWithCognos/HandsOn_DB2CognosAnalytics.md.html?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDB0260ENSkillsNetwork27338483-2021-01-01) will guide you to understand how to Create Tables and Load Data in PostgreSQL using pgAdmin
 
 You need access to Cognos Analytics.
 
-This lab will guide to get your access to Cognos Analytics, and also get you started with how to use it to analyze the data.
+This [lab](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0260EN-SkillsNetwork/labs/AnalyzingDataWithCognos/HandsOn_DB2CognosAnalytics.md.html?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDB0260ENSkillsNetwork27338483-2021-01-01) will guide to get your access to Cognos Analytics, and also get you started with how to use it to analyze the data.
