@@ -87,3 +87,12 @@ Take a screenshot of the fieldnames for the table MyDimZone.
 Name the screenshot 3-MyDimZone.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ![3-MyDimZone.jpg](https://i.imgur.com/h2QP1uR.jpg)
+
+Task 4 - Design the fact table MyFactTrips
+Write down the fields in the MyFactTrips table in any text editor one field per line.
+
+Take a screenshot of the fieldnames for the table MyFactTrips.
+
+Name the screenshot 4-MyFactTrips.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![4-MyFactTrips](https://i.imgur.com/rRv6kTe.jpg)
