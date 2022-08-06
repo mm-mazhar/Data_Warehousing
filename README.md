@@ -69,3 +69,12 @@ Take a screenshot of the fieldnames for the table MyDimDate.
 Name the screenshot 1-MyDimDate.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ![1-MyDimDate](https://i.imgur.com/OepyNuz.jpg)
+
+Task 2 - Design the dimension table MyDimWaste
+Write down the fields in the MyDimWaste table in any text editor one field per line.
+
+Take a screenshot of the fieldnames for the table MyDimWaste.
+
+Name the screenshot 2-MyDimWaste.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![2-MyDimWaste](https://i.imgur.com/Bkxo5KF.jpg)
