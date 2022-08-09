@@ -109,4 +109,6 @@ Take a screenshot of the sql statement you used to create the table MyDimDate.
 
 Name the screenshot 5-MyDimDate.jpg. (Images can be saved with either the .jpg or .png extension.)
 
+![5-MyDimDate](https://i.imgur.com/b437JGM.jpg)
+
 
