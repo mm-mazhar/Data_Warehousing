@@ -131,3 +131,15 @@ Name the screenshot 7-MyDimZone.jpg. (Images can be saved with either the .jpg o
 
 ![7-MyDimZone](https://i.imgur.com/iG21Lyj.jpg)
 
+Task 8 - Create the fact table MyFactTrips
+Create the MyFactTrips table.
+
+Take a screenshot of the sql statement you used to create the table MyFactTrips.
+
+Name the screenshot 8-MyFactTrips.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![8-MyFactTrips](https://i.imgur.com/78Ph1tC.jpg)
+
+
+
+
