@@ -254,6 +254,36 @@ Take a screenshot of the pie chart.
 
 Name the screenshot 17-pie.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![17-pie](
+![17-pie](https://i.imgur.com/CzBt2dX.jpg)
 
+Task 18 - Create a bar chart in the dashboard
 
+Create a bar chart that shows the waste collected station wise.
+
+Take a screenshot of the bar chart.
+
+Name the screenshot 18-bar.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![18-bar](https://i.imgur.com/1aMNFE3.jpg)
+
+Task 19 - Create a line chart in the dashboard
+
+Create a line chart that shows the waste collected by month wise.
+
+Take a screenshot of the line chart.
+
+Name the screenshot 19-line.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+Hint: Use Extract function in Create Calculation to collect the data month wise.
+
+![19-line](https://i.imgur.com/FhARUOH.jpg)
+
+Task 20 - Create a pie chart in the dashboard
+
+Create a pie chart that shows the waste collected by city.
+
+Take a screenshot of the pie chart.
+
+Name the screenshot 20-pie.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![20-pie](https://i.imgur.com/xl5Mu8Q.jpg)
