@@ -140,6 +140,24 @@ Name the screenshot 8-MyFactTrips.jpg. (Images can be saved with either the .jpg
 
 ![8-MyFactTrips](https://i.imgur.com/78Ph1tC.jpg)
 
+## Exercise 3 - Load data into the Data Warehouse
 
+In this exercise you will load the data into the tables.
+
+After the initial schema design, you were told that due to opertional issues, data could not be collected in the format initially planned.
+
+You will load the data provided by the company in csv format.
+
+Task 9 - Load data into the dimension table DimDate
+
+Download the data from https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0260EN-SkillsNetwork/labs/Final%20Assignment/DimDate.csv
+
+Load this data into DimDate table.
+
+Take a screenshot of the first 5 rows in the table DimDate.
+
+Name the screenshot 9-DimDate.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![9-DimDate](https://i.imgur.com/KvT14Ez.jpg)
 
 
