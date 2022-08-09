@@ -109,7 +109,7 @@ Take a screenshot of the sql statement you used to create the table MyDimDate.
 
 Name the screenshot 5-MyDimDate.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![5-MyDimDate](https://i.imgur.com/b437JGM.jpg)
+![5-MyDimDate](https://i.imgur.com/3mWtBlZ.jpg)
 
 Task 6 - Create the dimension table MyDimWaste
 
@@ -119,7 +119,7 @@ Take a screenshot of the sql statement you used to create the table MyDimWaste.
 
 Name the screenshot 6-MyDimWaste.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![6-MyDimWaster](https://i.imgur.com/krfSZLX.jpg)
+![6-MyDimWaste](https://i.imgur.com/krfSZLX.jpg)
 
 Task 7 - Create the dimension table MyDimZone
 
@@ -159,5 +159,17 @@ Take a screenshot of the first 5 rows in the table DimDate.
 Name the screenshot 9-DimDate.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ![9-DimDate](https://i.imgur.com/KvT14Ez.jpg)
+
+Task 10 - Load data into the dimension table DimTruck
+
+Download the data from https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0260EN-SkillsNetwork/labs/Final%20Assignment/DimTruck.csv
+
+Load this data into DimTruck table.
+
+Take a screenshot of the first 5 rows in the table DimTruck.
+
+Name the screenshot 10-DimTruck.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![10-DimTruck](
 
 
