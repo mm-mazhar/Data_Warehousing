@@ -120,3 +120,14 @@ Take a screenshot of the sql statement you used to create the table MyDimWaste.
 Name the screenshot 6-MyDimWaste.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ![6-MyDimWaster](https://i.imgur.com/krfSZLX.jpg)
+
+Task 7 - Create the dimension table MyDimZone
+
+Create the MyDimZone table.
+
+Take a screenshot of the sql statement you used to create the table MyDimZone.
+
+Name the screenshot 7-MyDimZone.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![7-MyDimZone](https://i.imgur.com/iG21Lyj.jpg)
+
