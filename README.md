@@ -158,7 +158,7 @@ Take a screenshot of the first 5 rows in the table DimDate.
 
 Name the screenshot 9-DimDate.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![9-DimDate](https://i.imgur.com/6Ch46pd.jpg)
+![9-DimDate](https://i.imgur.com/7c1jIUF.jpg)
 
 Task 10 - Load data into the dimension table DimTruck
 
