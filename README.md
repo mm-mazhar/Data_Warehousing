@@ -220,5 +220,14 @@ Name the screenshot 14-rollup.jpg. (Images can be saved with either the .jpg or 
 
 ![14-rollup](https://i.imgur.com/PLrAeY3.jpg)
 
+Task 15 - Create a cube query
+
+Create a cube query using the columns year, city, stationid, and average waste collected.
+
+Take a screenshot of the sql and the output rows.
+
+Name the screenshot 15-cube.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![15-cube](https://i.imgur.com/V0L8wQE.jpg)
 
 
