@@ -209,3 +209,16 @@ Take a screenshot of the sql and the output rows.
 Name the screenshot 13-groupingsets.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ![13-groupingsets](https://i.imgur.com/N6jr4bj.jpg)
+
+Task 14 - Create a rollup query
+
+Create a rollup query using the columns year, city, stationid, and total waste collected.
+
+Take a screenshot of the sql and the output rows.
+
+Name the screenshot 14-rollup.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![14-rollup](https://i.imgur.com/PLrAeY3.jpg)
+
+
+
