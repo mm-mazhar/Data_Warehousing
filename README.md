@@ -172,4 +172,16 @@ Name the screenshot 10-DimTruck.jpg. (Images can be saved with either the .jpg o
 
 ![10-DimTruck](https://i.imgur.com/4RCuwPG.jpg)
 
+Task 11 - Load data into the dimension table DimStation
+
+Download the data from https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0260EN-SkillsNetwork/labs/Final%20Assignment/DimStation.csv
+
+Load this data into DimStation table.
+
+Take a screenshot of the first 5 rows in the table DimStation.
+
+Name the screenshot 11-DimStation.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![11-DimStation](https://i.imgur.com/DPRfUGX.jpg)
+
 
