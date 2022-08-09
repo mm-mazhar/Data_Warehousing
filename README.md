@@ -96,3 +96,17 @@ Take a screenshot of the fieldnames for the table MyFactTrips.
 Name the screenshot 4-MyFactTrips.jpg. (Images can be saved with either the .jpg or .png extension.)
 
 ![4-MyFactTrips](https://i.imgur.com/rRv6kTe.jpg)
+
+## Exercise 2 - Create schema for Data Warehouse on DB2
+
+In this exercise you will create the tables, you have designed in the previous exercise.
+
+Task 5 - Create the dimension table MyDimDate
+
+Create the MyDimDate table.
+
+Take a screenshot of the sql statement you used to create the table MyDimDate.
+
+Name the screenshot 5-MyDimDate.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+
