@@ -170,6 +170,6 @@ Take a screenshot of the first 5 rows in the table DimTruck.
 
 Name the screenshot 10-DimTruck.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![10-DimTruck](
+![10-DimTruck](https://i.imgur.com/4RCuwPG.jpg)
 
 
