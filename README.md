@@ -109,7 +109,7 @@ Take a screenshot of the sql statement you used to create the table MyDimDate.
 
 Name the screenshot 5-MyDimDate.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![5-MyDimDate](https://i.imgur.com/3mWtBlZ.jpg)
+![5-MyDimDate](https://i.imgur.com/21CejFQ.jpg)
 
 Task 6 - Create the dimension table MyDimWaste
 
@@ -119,7 +119,7 @@ Take a screenshot of the sql statement you used to create the table MyDimWaste.
 
 Name the screenshot 6-MyDimWaste.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![6-MyDimWaste](https://i.imgur.com/krfSZLX.jpg)
+![6-MyDimWaste](https://i.imgur.com/zjd4cim.jpg)
 
 Task 7 - Create the dimension table MyDimZone
 
@@ -129,7 +129,7 @@ Take a screenshot of the sql statement you used to create the table MyDimZone.
 
 Name the screenshot 7-MyDimZone.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![7-MyDimZone](https://i.imgur.com/iG21Lyj.jpg)
+![7-MyDimZone](https://i.imgur.com/4mV8j17.jpg)
 
 Task 8 - Create the fact table MyFactTrips
 Create the MyFactTrips table.
@@ -138,7 +138,7 @@ Take a screenshot of the sql statement you used to create the table MyFactTrips.
 
 Name the screenshot 8-MyFactTrips.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![8-MyFactTrips](https://i.imgur.com/78Ph1tC.jpg)
+![8-MyFactTrips](https://i.imgur.com/hWN198K.jpg)
 
 ## Exercise 3 - Load data into the Data Warehouse
 
@@ -158,7 +158,7 @@ Take a screenshot of the first 5 rows in the table DimDate.
 
 Name the screenshot 9-DimDate.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![9-DimDate](https://i.imgur.com/7c1jIUF.jpg)
+![9-DimDate](https://i.imgur.com/Dui5mSO.jpg)
 
 Task 10 - Load data into the dimension table DimTruck
 
@@ -170,7 +170,7 @@ Take a screenshot of the first 5 rows in the table DimTruck.
 
 Name the screenshot 10-DimTruck.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![10-DimTruck](https://i.imgur.com/4RCuwPG.jpg)
+![10-DimTruck](https://i.imgur.com/EQIvq5A.jpg)
 
 Task 11 - Load data into the dimension table DimStation
 
@@ -182,7 +182,7 @@ Take a screenshot of the first 5 rows in the table DimStation.
 
 Name the screenshot 11-DimStation.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![11-DimStation](https://i.imgur.com/DPRfUGX.jpg)
+![11-DimStation](https://i.imgur.com/osaCziJ.jpg)
 
 Task 12 - Load data into the fact table FactTrips
 
@@ -194,7 +194,7 @@ Take a screenshot of the first 5 rows in the table FactTrips.
 
 Name the screenshot 12-FactTrips.jpg. (Images can be saved with either the .jpg or .png extension.)
 
-![12-FactTrips](https://i.imgur.com/7wILTxR.jpg)
+![12-FactTrips](https://i.imgur.com/1at7vY8.jpg)
 
 ## Exercise 4 - Write aggregation queries and create MQTs
 
