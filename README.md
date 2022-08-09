@@ -1,4 +1,4 @@
-# Data Warehousing
+# Data Warehousing and BI Analytics with IBM DB2 and IBM Cognos Analytics
 
 In this lab, you will use PostgreSQL/mySQL Database. PostgreSQL/mySQL is a Relational Database Management System (RDBMS) designed to efficiently store, manipulate, and retrieve data.
 
