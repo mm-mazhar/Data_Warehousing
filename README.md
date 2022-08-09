@@ -230,4 +230,30 @@ Name the screenshot 15-cube.jpg. (Images can be saved with either the .jpg or .p
 
 ![15-cube](https://i.imgur.com/V0L8wQE.jpg)
 
+Task 16 - Create an MQT
+
+Create an MQT named max_waste_stats using the columns city, stationid, trucktype, and max waste collected.
+
+Take a screenshot of the sql.
+
+Name the screenshot 16-mqt.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![16-mqt](https://i.imgur.com/edqS7Mg.jpg)
+
+## Exercise 5 - Create a dashboard using Cognos Analytics
+
+Download the data from https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0260EN-SkillsNetwork/labs/Final%20Assignment/DataForCognos.csv
+
+Use the DataForCognos.csv file to generate the following charts.
+
+Task 17 - Create a pie chart in the dashboard
+
+Create a pie chart that shows the waste collected by truck type.
+
+Take a screenshot of the pie chart.
+
+Name the screenshot 17-pie.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![17-pie](
+
 
