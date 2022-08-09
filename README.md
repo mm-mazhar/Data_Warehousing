@@ -184,4 +184,18 @@ Name the screenshot 11-DimStation.jpg. (Images can be saved with either the .jpg
 
 ![11-DimStation](https://i.imgur.com/DPRfUGX.jpg)
 
+Task 12 - Load data into the fact table FactTrips
+
+Download the data from https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0260EN-SkillsNetwork/labs/Final%20Assignment/FactTrips.csv
+
+Load this data into FactTrips table.
+
+Take a screenshot of the first 5 rows in the table FactTrips.
+
+Name the screenshot 12-FactTrips.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![12-FactTrips](https://i.imgur.com/7wILTxR.jpg)
+
+
+
 
