@@ -196,6 +196,16 @@ Name the screenshot 12-FactTrips.jpg. (Images can be saved with either the .jpg 
 
 ![12-FactTrips](https://i.imgur.com/7wILTxR.jpg)
 
+## Exercise 4 - Write aggregation queries and create MQTs
 
+In this exercise you will query the data you have loaded in the previous exercise.
 
+Task 13 - Create a grouping sets query
 
+Create a grouping sets query using the columns stationid, trucktype, total waste collected.
+
+Take a screenshot of the sql and the output rows.
+
+Name the screenshot 13-groupingsets.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![13-groupingsets](
