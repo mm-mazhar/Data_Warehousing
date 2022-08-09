@@ -111,4 +111,12 @@ Name the screenshot 5-MyDimDate.jpg. (Images can be saved with either the .jpg o
 
 ![5-MyDimDate](https://i.imgur.com/b437JGM.jpg)
 
+Task 6 - Create the dimension table MyDimWaste
 
+Create the MyDimWaste table.
+
+Take a screenshot of the sql statement you used to create the table MyDimWaste.
+
+Name the screenshot 6-MyDimWaste.jpg. (Images can be saved with either the .jpg or .png extension.)
+
+![6-MyDimWaster](https://i.imgur.com/krfSZLX.jpg)
